@@ -1,0 +1,7 @@
+node_modules/
+.next/
+app/.next/
+app/next-env.d.ts
+*.db
+projects/
+app/.env.local
